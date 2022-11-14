@@ -3,6 +3,7 @@ import Populace from "./Populace";
 import Umrti from './Umrti';
 import Narozeni from './Narozeni';
 
+
 const Dashboard = () => {
   return (
     <div className="grafy" align="center">
